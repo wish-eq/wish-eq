@@ -1,7 +1,6 @@
 # Hi 👋 I'm Wish
 
 ![toky](https://github.com/wish-eq/wish-eq/assets/97574512/c2aab063-0c57-46ee-ac49-8465df326caa)
-## 📭 Email: wish.eq@gmail.com
 
 # 💻   Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) 
@@ -17,7 +16,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wish-eq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+## 📭 Contact: 
+wish.eq@gmail.com
 
 
  
