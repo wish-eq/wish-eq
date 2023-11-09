@@ -3,7 +3,9 @@
 ![toky](https://github.com/wish-eq/wish-eq/assets/97574512/c2aab063-0c57-46ee-ac49-8465df326caa)
  
 contact me:
+
 📭  wish.eq@gmail.com
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/icque)
 
 # 💻   Languages:
