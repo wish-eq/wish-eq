@@ -13,8 +13,8 @@
 # 🛠️  Tools:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wish-eq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wish-eq&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## 📭 Contact: 
 wish.eq@gmail.com
